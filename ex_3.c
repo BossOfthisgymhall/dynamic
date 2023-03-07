@@ -25,5 +25,11 @@ int main()
 
     return 0;
 }
-
+int input(int *a, int *n);
+{
+    scanf("%d", n);
+    for(int *p = a; p - a < *n; p++){
+        scanf("%d ", p);
+    }
+}
 
