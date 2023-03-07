@@ -32,4 +32,18 @@ int input(int *a, int *n);
         scanf("%d ", p);
     }
 }
+int max(int *a, int n){
 
+}
+int min(int *a, int n){
+
+}
+double mean(int *a, int n){
+
+}
+double variance(int *a, int n){
+
+}
+void output_result(int max_v, int min_v, double mean_v, double variance_v){
+    
+}
