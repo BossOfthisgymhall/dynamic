@@ -33,7 +33,9 @@ int input(int *a, int *n);
     }
 }
 int max(int *a, int n){
-
+        for(int *p = a; p - a < *n; p++){
+        
+    }
 }
 int min(int *a, int n){
 
