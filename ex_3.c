@@ -56,7 +56,7 @@ double mean(int *a, int n, int mean){
     return mean / n;
 }
 double variance(int *a, int n){
-
+    //я забыл как писать
 }
 void output_result(int max_v, int min_v, double mean_v, double variance_v){
     
